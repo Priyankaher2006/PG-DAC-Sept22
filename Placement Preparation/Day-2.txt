@@ -1,0 +1,66 @@
+Date: 21-02-2023
+Day 2. Interview questions.
+------------------------------
+1.	Explain your project.
+2.	Your role in project.
+3.	Oops in java.
+4.	Can we override main method?
+5.	Can we overload main method? 
+6.	String literals and immutability of string.
+7.	equals and == 
+8.	Student class scenario 
+9.	Collection and Collections
+10.	Arraylist and linkedlist
+11.	Find temperature close to zero given an array containing negative postive temperature
+12.	Springboot and spring
+13.	Annotations used in project
+14.	Maven lifecycle
+15.	Arraylist vs linkedlist
+16.	Singlton class program
+17.	Puzzle 3litr,5litre jar...measure 4 litre
+18.	Joins
+19.	Why mech to IT ?
+20.	Hooks means?
+21.	Callback function ? ...how it works ?
+22.	Want to delete duplicate element from arraylist ...which interface we should use?
+23.	Insert elements in arraylist...find min element...program
+24.	How to add 4 dept...each dept have 3profiles....how to add this hirarchi in database 
+25.	Explain your Project 
+26.	Explain Database of your Project. 
+27.	Discussed Password Encryption and Forgot Password Functionality in my Project.
+28.	Explain the problem how i approached the problem.
+29.	Some Practical Questions on HashMap,TreeSet
+30.	Discussed about the Booking of Grounds/Halls functionality in your project.
+31.	Annotations Used in the Project.
+32.	Hashmap function
+33.	Arraylist program
+34.	Inner join , left join
+35.	What is Mongodb
+36.	Some javascript based question
+37.	What 'Inspect' will do on browser window
+38.	Java 8 and 11 features
+39.	Exception
+40.	Difference bet delete and truncate
+
+
+Coding Questions
+-----------------
+Array Based Programs
+
+1. Calculate the average of given array. 
+2. Find the second largest number in the given array. 
+3. Find the second minimum number in the given array. 
+4. Find the missing Number in the given array of 1 to N. 
+5. Write a Java Program to find the Intersection of two arrays.
+6. Write a Java Program to find the Intersection of Two Sortedarrays. 
+7. Write a Java Program to find the Union of Two Arrays (UnSorted Array). 
+8. Write a Java Program to find the Union of Two Arrays (Sorted Arrays). 
+9. Write a Java Program to find the Union of Tow Arrays using HashSet. 
+10. Write a Java Program to Move all Zero to End of the Array. 
+11. Write a Java Program to Move all Zeros to Start of the Array. 
+12. Write a Java Program to Reverse the given array without using additional Array.
+13. Write a program to find the Most Frequent Elementin an given array. 
+14. Write a program to find the Most Frequent Element using Sorting. 
+15. Write a program to find the Most Frequent Element using HashTable. 
+16. Write a java program to Rotate the Given Arrayd times. 
+17. Find the pair of elements(X+Y) in the array whose sum is equal to given number Z.
